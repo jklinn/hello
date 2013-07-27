@@ -1,7 +1,7 @@
 hello
 =====
-mkdir ~/Hello-World
-cd ~/Hello-World
+mkdir ~/hello
+cd ~/hello
 git init
 touch README
 
